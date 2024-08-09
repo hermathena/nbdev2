@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://hermathena.github.io',
                 'git_url': 'https://github.com/hermathena/nbdev2',
                 'lib_path': 'nbdev2'},
-  'syms': {'nbdev2.core': {'nbdev2.core.foo': ('core.html#foo', 'nbdev2/core.py')}}}
+  'syms': {'nbdev2.core': {'nbdev2.core.say_hello': ('arche.html#say_hello', 'nbdev2/core.py')}}}
