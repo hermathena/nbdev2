@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev2"
+  site-url: "https://hermathena.github.io/nbdev2"
+  description: "test2"
+  repo-branch: main
+  repo-url: "https://github.com/hermathena/nbdev2"
